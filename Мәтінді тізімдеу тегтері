@@ -1,0 +1,42 @@
+<title></title>
+<meta charset="UTF-8">
+<h1>&nbsp;</h1>
+
+<p>МӘТІНДІ ТІЗІМДЕУ ТЕГТЕРІ</p>
+
+<center>
+<table border="3">
+	<tbody>
+		<tr>
+			<td><strong>АТЫ</strong></td>
+			<td><strong>СИПАТТАМАСЫ</strong></td>
+		</tr>
+		<tr>
+			<td>&lt;li&gt; жұп тегі</td>
+			<td>Тізім элементтерінің орналасуы</td>
+		</tr>
+		<tr>
+			<td>&lt;UL&gt; жұп тегі</td>
+			<td>Танбаланған тізім кұру</td>
+		</tr>
+		<tr>
+			<td>&lt;OL&gt; жұп тегі</td>
+			<td>Нөмірленген тізім кұру</td>
+		</tr>
+		<tr>
+			<td>&lt;DL&gt; жұп тегі</td>
+			<td>Анықтамалар тізімін кұру</td>
+		</tr>
+		<tr>
+			<td>&lt;DT&gt; жұп тегі</td>
+			<td>Термин еңгізу</td>
+		</tr>
+		<tr>
+			<td>&lt;DD&gt; жұп тегі</td>
+			<td>Терминін анықтамасын кұру</td>
+		</tr>
+	</tbody>
+</table>
+</center>
+
+<p>&nbsp;</p>
